@@ -1,0 +1,11 @@
+.title {
+    color: white;
+    background-color: orangered;
+    text-align: center;
+}
+
+.guy {
+    display: flex;
+    justify-content: center;
+
+}
